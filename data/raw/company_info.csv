@@ -1,0 +1,26 @@
+symbol,name,sector,industry,country,market_cap,currency
+AAPL,Apple,Technology,Consumer Electronics,United States,3761492983808,USD
+MSFT,Microsoft,Technology,Software - Infrastructure,United States,2775695753216,USD
+GOOGL,Alphabet,Communication Services,Internet Content & Information,United States,3577929793536,USD
+META,Meta,Communication Services,Internet Content & Information,United States,1453128548352,USD
+NVDA,NVIDIA,Technology,Semiconductors,United States,4311464017920,USD
+AMZN,Amazon,Consumer Cyclical,Internet Retail,United States,2251864408064,USD
+CRM,Salesforce,Technology,Software - Application,United States,175387656192,USD
+JPM,JPMorgan Chase,Financial Services,Banks - Diversified,United States,794545750016,USD
+GS,Goldman Sachs,Financial Services,Capital Markets,United States,256109641728,USD
+BAC,Bank of America,Financial Services,Banks - Diversified,United States,354384576512,USD
+PFE,Pfizer,Healthcare,Drug Manufacturers - General,United States,161094254592,USD
+JNJ,Johnson & Johnson,Healthcare,Drug Manufacturers - General,United States,585701851136,USD
+MRK,Merck,Healthcare,Drug Manufacturers - General,United States,298838032384,USD
+XOM,ExxonMobil,Energy,Oil & Gas Integrated,United States,669557260288,USD
+CVX,Chevron,Energy,Oil & Gas Integrated,United States,397811384320,USD
+PG,Procter & Gamble,Consumer Defensive,Household & Personal Products,United States,334433288192,USD
+KO,Coca-Cola,Consumer Defensive,Beverages - Non-Alcoholic,United States,330214637568,USD
+MCD,McDonald's,Consumer Cyclical,Restaurants,United States,219176468480,USD
+TSLA,Tesla,Consumer Cyclical,Auto Manufacturers,United States,1353089417216,USD
+F,Ford,Consumer Cyclical,Auto Manufacturers,United States,46528557056,USD
+VZ,Verizon,Communication Services,Telecom Services,United States,208353607680,USD
+T,AT&T,Communication Services,Telecom Services,United States,198326353920,USD
+WMT,Walmart,Consumer Defensive,Discount Stores,United States,1002848518144,USD
+TGT,Target,Consumer Defensive,Discount Stores,United States,54546452480,USD
+CAT,Caterpillar,Industrials,Farm & Heavy Construction Machinery,United States,335644295168,USD
