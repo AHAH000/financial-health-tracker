@@ -6,9 +6,7 @@ An end-to-end data analytics project analyzing the financial health of 25 major 
 
 ## Dashboard Preview
 
-> *Add a screenshot of your Power BI dashboard here*
-> `<img width="1127" height="637" alt="dashboard_preview" src="https://github.com/user-attachments/assets/40f24e94-8ee5-4148-a04c-0a929aa564d3" />
-`
+<img width="1127" height="637" alt="Financial Health Tracker Dashboard" src="https://github.com/user-attachments/assets/40f24e94-8ee5-4148-a04c-0a929aa564d3" />
 
 ---
 
@@ -157,7 +155,7 @@ Despite lower absolute margins, companies like Walmart, Coca-Cola, and Procter &
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/financial-health-tracker.git
+git clone https://github.com/AHAH000/financial-health-tracker.git
 cd financial-health-tracker
 ```
 
@@ -212,4 +210,4 @@ psycopg2-binary
 
 **Ahmed Hamdi Hegazi**
 Computer Science graduate — British University in Egypt
-[LinkedIn](https://linkedin.com/in/YOUR_PROFILE) · [Portfolio](YOUR_PORTFOLIO_URL)
+[LinkedIn](https://www.linkedin.com/in/ahmed-hamdi-hegazi/) · [GitHub](https://github.com/AHAH000) · [Portfolio](https://lnkd.in/dTqV5s6p)
