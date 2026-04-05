@@ -7,7 +7,8 @@ An end-to-end data analytics project analyzing the financial health of 25 major 
 ## Dashboard Preview
 
 > *Add a screenshot of your Power BI dashboard here*
-> `![Dashboard Preview](assets/dashboard_preview.png)`
+> `<img width="1127" height="637" alt="dashboard_preview" src="https://github.com/user-attachments/assets/40f24e94-8ee5-4148-a04c-0a929aa564d3" />
+`
 
 ---
 
